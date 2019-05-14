@@ -1,0 +1,25 @@
+{
+  "name": "find-free-port-cli",
+  "version": "0.1.0",
+  "description": "CLI version of find-free-port library.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "find",
+    "free",
+    "local",
+    "port",
+    "listen",
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "find-free-port": "^2.0.0",
+    "minimist": "^1.2.0"
+  },
+  "bin": {
+    "free-port": "./cli.js"
+  }
+}
