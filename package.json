@@ -5,6 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "https://github.com/seongmo/find-free-port-cli",
   "keywords": [
     "find",
     "free",
@@ -13,7 +14,7 @@
     "listen",
     "cli"
   ],
-  "author": "",
+  "author": "seongmo",
   "license": "ISC",
   "dependencies": {
     "find-free-port": "^2.0.0",
